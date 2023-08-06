@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "ABarashkov_Python_QAGuru_6_12",
+    "environment": "test",
+    "comment": "",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5297038547:AAGCDiAVcB6V8ej_9klmNFnBTP17B8cyS58",
+    "chat": "-1001713363190",
+    "replyTo": ""
+  }
+}
